@@ -16,9 +16,13 @@
     "express-graphql": "^0.12.0",
     "graphql": "^16.6.0",
     "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.1.0",
     "mongoose": "^7.0.2",
     "nodemon": "^2.0.21",
     "uuid": "^9.0.0",
     "validator": "^13.9.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
   }
 }
